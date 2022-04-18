@@ -1,6 +1,7 @@
 ### Olá!! Eu sou a Jamily Fernandes dos Santos
 
 - 👩‍💻 Estudando Java
+- 🎓 Aluna do bootcamp Pessoa Desenvolvedora Java FullStack Junior da Generation Brasil.
 - 😄 Pronouns: ela/dela
 
 
