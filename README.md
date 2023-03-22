@@ -1,7 +1,7 @@
 ### Olá!! Eu sou a Jamily Fernandes dos Santos
 
-- 👩‍💻 Estudando no memoento:
-      - Java 
+- 👩‍💻 Estudando no memoento: <br>
+      - Java <br> 
       - Oracle
 - 🎓 2° Semestre de Analise e Desenvlvimento de Sistema - Uninove.
 - 😄 Pronouns: ela/dela
